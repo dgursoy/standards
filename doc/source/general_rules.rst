@@ -1,3 +1,7 @@
 =============
 General rules
 =============
+
+Rules of Optimization: 
+Rule 1: Don't do it.
+Rule 2 (for experts only): Don't do it yet.

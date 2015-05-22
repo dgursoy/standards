@@ -12,8 +12,6 @@ rest of your life.
 This guide is maintained on 
 `GitHub <https://github.com/dgursoy/standards.git>`_.
 
-Contents:
-
 .. toctree::
    :maxdepth: 2
 
